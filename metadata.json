@@ -1,0 +1,10 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Real-time atmospheric intelligence, 7-day meteorological forecasts, and contextual daily activity planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
